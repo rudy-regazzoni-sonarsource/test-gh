@@ -2,7 +2,7 @@ name: Example
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ * ]
 
 jobs:
   main:
